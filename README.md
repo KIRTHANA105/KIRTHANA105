@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-> I'm a Computer Science Engineering student at **Chennai Institute of Technology** (CGPA **8.8/10**), focused on applying AI/ML to practical, real-world problems.
+> I'm a Computer Science Engineering student at **Chennai Institute of Technology**, **Turning "what if" into "it works."** .
 
 - 🎯 **Interests:** AI & Machine Learning · Generative AI & LLM Applications · Deep Learning, NLP & Computer Vision
 - ⚙️ **Engineering:** Backend Development · Full-Stack Applications · Cloud & DevOps
