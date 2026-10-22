@@ -66,63 +66,35 @@
 
 ## 🚀 Featured Projects
 
-### ❤️ HeartShield AI
+> ### ❤️ [HeartShield AI](https://github.com/KIRTHANA105/HeartShield-AI)
+> **Healthcare AI** · Published at CML 2026 (Springer LNNS)
+>
+> ECG-based screening to classify coronary artery disease risk using a CNN + BiLSTM model.
+>
+> `Python` `TensorFlow` `Keras` `WFDB`
 
-![Domain](https://img.shields.io/badge/Healthcare%20AI-Deep%20Learning-E11D48?style=for-the-badge)
-![Status](https://img.shields.io/badge/Published-CML%202026%20%7C%20Springer%20LNNS-16A34A?style=for-the-badge)
+> ### 🤖 [FixBot](https://github.com/KIRTHANA105/fixbot_new)
+> **LLM Application** · v1 complete, v2 in progress
+>
+> AI-assisted Windows troubleshooting with command interpretation and automated diagnostics.
+>
+> `Python` `FastAPI` `Gemini API` `React` `TypeScript`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![WFDB](https://img.shields.io/badge/WFDB-475569?style=flat-square)
-![CNN](https://img.shields.io/badge/CNN-1F6FEB?style=flat-square)
-![BiLSTM](https://img.shields.io/badge/BiLSTM-1F6FEB?style=flat-square)
-
-ECG and clinical-data-based screening to classify the risk of coronary artery disease. &nbsp;**[View Repository →](https://github.com/KIRTHANA105/HeartShield-AI)**
-
-<br/>
-
-### 🤖 FixBot
-
-![Domain](https://img.shields.io/badge/LLM%20Application-Automation-7C3AED?style=for-the-badge)
-![Status](https://img.shields.io/badge/v1%20Complete-v2%20In%20Progress-F59E0B?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-AI-assisted Windows troubleshooting: command interpretation, automated diagnostics and system support. &nbsp;**[View Repository →](https://github.com/KIRTHANA105/fixbot_new)**
-
-<br/>
-
-### 🏺 RELIC
-
-![Domain](https://img.shields.io/badge/NLP-Semantic%20Search-0891B2?style=for-the-badge)
-![Status](https://img.shields.io/badge/In%20Development-1F6FEB?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-Semantic search over archaeological excavation reports to help researchers find thematically related documents. &nbsp;**[View Repository →](https://github.com/KIRTHANA105/RELIC--Semantic-Archive)**
+> ### 🏺 [RELIC](https://github.com/KIRTHANA105/RELIC--Semantic-Archive)
+> **NLP** · In development
+>
+> Semantic search over archaeological excavation reports to surface related documents.
+>
+> `Python` `Sentence Transformers` `Scikit-learn` `FastAPI` `Next.js`
 
 ---
 
 ## 🏆 Achievements
 
-![Nexathon](https://img.shields.io/badge/🥇%20Nexathon%202025-Winner%20·%20Wearable%20Healthcare-F59E0B?style=for-the-badge)
-
-![Hack Karnataka](https://img.shields.io/badge/🏅%20Hack%20Karnataka%202025-Top%202%20Finalist%20·%20HealthTech-0EA5E9?style=for-the-badge)
-
-![ELPL](https://img.shields.io/badge/🥈%20ELPL%20Build--A--Thon%202.0-Second%20Place-64748B?style=for-the-badge)
-
-![Hackhazards](https://img.shields.io/badge/🚀%20Hackhazards%202026-Sarvam%20AI%20Track%20·%202nd%20Place%20%26%20Top%2025-7C3AED?style=for-the-badge)
-
----
+- 🥇 **Nexathon 2025:** Winner, Wearable Healthcare Devices
+- 🏅 **Hack Karnataka 2025:** Top 2 Finalist, HealthTech & Wellness
+- 🥈 **ELPL Build-A-Thon 2.0:** Second Place
+- 🚀 **Hackhazards 2026:** 2nd Place and Top 25, Sarvam AI Track
 
 ## 📊 GitHub Stats
 
