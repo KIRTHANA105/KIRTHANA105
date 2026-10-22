@@ -118,24 +118,38 @@ problem_solving: 650+ LeetCode problems solved
 
 ---
 
-## 💻 Competitive Programming
-
-<p>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-650%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-2★%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</p>
-
-- **LeetCode:** 650+ problems solved · Peak contest rating: 1710
-- **CodeChef:** 2-Star · 1000+ problems solved
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KIRTHANA105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="R Kirthana's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRTHANA105&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=KIRTHANA105&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KIRTHANA105&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
 
 ## 🎓 Education
 
