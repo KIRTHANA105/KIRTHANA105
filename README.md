@@ -1,22 +1,16 @@
 
-# Hi there, I'm R Kirthana 👋
+<h1 align="center">R Kirthana 👋</h1>
 
-### Aspiring AI Engineer · Generative AI · Intelligent Systems
+<h3 align="center">AI/ML · Generative AI · Intelligent Systems · Software Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B7EDE&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Exploring+Generative+AI;Designing+Multi-Agent+Systems;AI+First.+Engineering+Always." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B7EDE&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Exploring+Generative+AI+%26+LLMs;Designing+Multi-Agent+Solutions;Turning+Ideas+Into+Impact" alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/r-kirthana">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/KIRTHANA105">
-    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://linkedin.com/in/r-kirthana"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-9B7EDE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/KIRTHANA105"><img src="https://img.shields.io/badge/GITHUB-PROFILE-242938?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -26,150 +20,146 @@
 ```yaml
 name: R Kirthana
 education: B.E. Computer Science Engineering
-college: Chennai Institute of Technology
+institution: Chennai Institute of Technology
 cgpa: 8.8/10
-primary_focus:
+
+primary_interests:
   - Artificial Intelligence & Machine Learning
   - Generative AI & Large Language Models
   - Multi-Agent Systems
   - Deep Learning, NLP & Computer Vision
-also_interested_in:
-  - Backend Engineering
-  - Full-Stack Development
+
+engineering_interests:
+  - Backend Development
+  - Full-Stack Applications
   - Cloud & DevOps
-currently_building: AI-powered applications and intelligent systems
-problem_solving: 650+ LeetCode problems solved
+
+focus: Building intelligent systems for real-world problems
 ```
 
-- 🧠 Interested in building AI systems that solve meaningful real-world problems.
-- 🤖 Exploring LLMs, AI agents, multi-agent architectures, and intelligent automation.
-- ❤️ Developed a deep-learning-based ECG classification pipeline for cardiovascular screening.
-- 🏺 Building **RELIC**, a semantic intelligence system for archaeological documents.
-- 💻 Enjoy competitive programming and engineering reliable applications.
+- 🤖 Exploring Generative AI, LLMs, and multi-agent architectures.
+- 🧠 Interested in deep learning, NLP, computer vision, and applied AI research.
+- ❤️ Developed an ECG-based deep-learning pipeline for cardiovascular screening.
+- 🏺 Building **RELIC**, a semantic intelligence platform for archaeological documents.
+- 🔧 Developed **FixBot**, an AI-assisted Windows troubleshooting system.
 - 🚀 Interested in opportunities across AI/ML, Generative AI, and software engineering.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI & Machine Learning
+### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI and ML tools" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="Python, PyTorch, TensorFlow and OpenCV" />
 </p>
 
-`Deep Learning` · `CNN` · `BiLSTM` · `NLP` · `Computer Vision` · `Scikit-learn`
+<p>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Models-7B61FF?style=flat-square" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-Semantic%20Search-7B61FF?style=flat-square" alt="NLP" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-AI-7B61FF?style=flat-square" alt="Computer Vision" />
+</p>
 
 ### 🧬 Generative AI & Intelligent Systems
 
-`LLMs` · `RAG` · `Embeddings` · `Sentence Transformers` · `Prompt Engineering` · `AI Agents` · `Multi-Agent Systems`
-
-### 💻 Software Engineering
-
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,fastapi,flask" alt="Programming and development tools" />
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-6C5CE7?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C5CE7?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Multi--Agent%20Systems-6C5CE7?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Embeddings-Semantic%20Similarity-6C5CE7?style=flat-square" alt="Embeddings" />
 </p>
 
-### 🗄️ Databases, Cloud & DevOps
+### 💻 Programming & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,aws,gcp,git,github" alt="Databases, cloud, and DevOps tools" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nextjs,nodejs,fastapi,flask" alt="Programming languages and frameworks" />
+</p>
+
+### 🗄️ Databases, Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,aws,gcp,git,github" alt="Databases, cloud platforms and developer tools" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>❤️ HeartShield AI</h3>
-      <p>Deep-learning-based cardiovascular screening using ECG signals and clinical data to classify potential coronary artery disease risk.</p>
+      <p><strong>Healthcare AI · Deep Learning</strong></p>
+      <p>ECG and clinical-data-based cardiovascular screening using deep-learning models to classify potential coronary artery disease risk.</p>
       <p><strong>Stack:</strong> Python · TensorFlow/Keras · WFDB · CNN · BiLSTM</p>
       <p>📄 Research presented at CML 2026; accepted in Springer LNNS (SCOPUS-indexed).</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🤖 FixBot</h3>
-      <p>An AI-powered Windows support assistant for command interpretation, automated diagnostics, and troubleshooting, with a multi-agent architecture in v2.</p>
+      <p><strong>Generative AI · Intelligent Automation</strong></p>
+      <p>An AI-assisted Windows troubleshooting system for command interpretation, automated diagnostics, and system support, with a multi-agent architecture explored in v2.</p>
       <p><strong>Stack:</strong> Python · FastAPI · Gemini API · React · TypeScript</p>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <h3>🏺 RELIC</h3>
-      <p>A semantic document intelligence system that analyzes archaeological excavation reports using text embeddings, cosine similarity, and clustering to find thematically related documents.</p>
-      <p><strong>Stack:</strong> Python · Sentence Transformers · Scikit-learn · FastAPI · Next.js</p>
+    <td colspan="2" valign="top">
+      <h3>🏺 RELIC — Semantic Archaeology Archive</h3>
+      <p><strong>NLP · Semantic Search · Document Intelligence</strong></p>
+      <p>A platform for analyzing archaeological excavation reports with semantic embeddings, cosine similarity, and clustering to help researchers discover thematically related documents.</p>
+      <p><strong>Stack:</strong> Python · Sentence Transformers · NumPy · Scikit-learn · FastAPI · Next.js</p>
     </td>
   </tr>
 </table>
-
 
 ---
 
 ## 🏆 Achievements
 
-| Achievement | Recognition |
-|---|---|
-| 🥇 Nexathon 2025 | Winner — Wearable Healthcare Devices |
-| 🏅 Hack Karnataka 2025 | Top 2 Finalist — HealthTech & Wellness |
-| 🥈 ELPL Build-A-Thon 2.0 | Second Place |
-| 🚀 Hackhazards 2026 | Sarvam AI Track — Track 2nd Place & Top 25 |
-
----
-
+<table>
+  <tr>
+    <td>🥇</td>
+    <td><strong>Nexathon 2025</strong></td>
+    <td>Winner — Wearable Healthcare Devices</td>
+  </tr>
+  <tr>
+    <td>🏅</td>
+    <td><strong>Hack Karnataka 2025</strong></td>
+    <td>Top 2 Finalist — HealthTech & Wellness</td>
+  </tr>
+  <tr>
+    <td>🥈</td>
+    <td><strong>ELPL Build-A-Thon 2.0</strong></td>
+    <td>Second Place</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Hackhazards 2026</strong></td>
+    <td>Sarvam AI Track — Track 2nd Place & Top 25</td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KIRTHANA105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="R Kirthana's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRTHANA105&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KIRTHANA105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRTHANA105&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" height="175" />
 </p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=KIRTHANA105&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KIRTHANA105&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
-
-
-## 🎓 Education
-
-**B.E. — Computer Science Engineering**  
-Chennai Institute of Technology · 2024–2028  
-CGPA: **8.8/10**
 
 ---
 
-## 🤝 Let's Connect
+## 🎓 Education
 
-<p align="center">
-  <a href="https://linkedin.com/in/r-kirthana">
-    <img src="https://img.shields.io/badge/LinkedIn-R%20Kirthana-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p>
+  <strong>B.E. Computer Science and Engineering</strong><br/>
+  Chennai Institute of Technology<br/>
+  2024–2028 · CGPA: 8.8/10
 </p>
 
+---
+
 <p align="center">
-  <i>Building at the intersection of intelligence, innovation, and engineering.</i>
+  <strong>AI first. Engineering with purpose.</strong><br/>
+  <sub>Building at the intersection of intelligence, research, and software.</sub>
 </p>
