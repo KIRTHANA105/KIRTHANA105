@@ -1,5 +1,4 @@
 # Hi there, I'm Kirthana 👋
-
 ### Aspiring AI Engineer · Generative AI · Intelligent Systems
 
 \<p align="center">
