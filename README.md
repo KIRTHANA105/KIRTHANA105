@@ -80,6 +80,7 @@ problem_solving: 650+ LeetCode problems solved
 
 ## 🚀 Featured Projects
 
+
 <table>
   <tr>
     <td width="50%">
@@ -95,18 +96,14 @@ problem_solving: 650+ LeetCode problems solved
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td colspan="2">
       <h3>🏺 RELIC</h3>
       <p>A semantic document intelligence system that analyzes archaeological excavation reports using text embeddings, cosine similarity, and clustering to find thematically related documents.</p>
       <p><strong>Stack:</strong> Python · Sentence Transformers · Scikit-learn · FastAPI · Next.js</p>
     </td>
-    <td width="50%">
-      <h3>🌐 HR & Workforce Platform</h3>
-      <p>A workforce management application with authentication and a containerized cloud deployment pipeline.</p>
-      <p><strong>Stack:</strong> React · Node.js · TypeScript · MongoDB · Docker · Google Cloud Run</p>
-    </td>
   </tr>
 </table>
+
 
 ---
 
